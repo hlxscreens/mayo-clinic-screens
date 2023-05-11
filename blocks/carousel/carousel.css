@@ -1,0 +1,83 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.content-container {
+    padding: 0;
+    margin: auto;
+    height: 100%;
+    width: 33%;
+    display: grid;
+    grid-template-rows: 14% 81% 5%;
+    grid-gap: 0;
+}
+.head-container {
+    background-color: #F8F8F8;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    object-fit: cover;
+    display: block;
+    height: 90%;
+    max-width: 30%;
+    padding-left: 1%;
+}
+.logo img {
+    height: 100%;
+    width: 100%;
+}
+.datetime {
+    width: 25%;
+    text-align: right;
+    padding-right: 3%;
+}
+#time-header {
+    color: dimgrey;
+    font-size: 1.75em;
+}
+.carousel-contain {
+    overflow-x: hidden;
+    background-color: #F8F8F8;
+}
+.carousel-wrap {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: calc((100% - (1.5rem * (var(--per-view) - 1))) / var(--per-view));
+    grid-gap: 0;
+    position: relative;
+    left: 0;
+    transition: .3s;
+}
+.carousel-image {
+    height: 40%;
+    object-fit: cover;
+    display: block;
+}
+.carousel-image img {
+    width: 100%;
+    height: 100%;
+}
+.carousel-text {
+    padding: 5% 5%;
+}
+.carousel-text h1 {
+    padding-top: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.carousel-text p {
+    font-size: large;
+    padding: 1% 0 0 0;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 100;
+}
+.footer-container {
+    width: 100%;
+    padding: 1.5% 0 1% 0;
+    background-color: dimgrey;
+    color: white;
+    font-size: large;
+    font-family: "Times New Roman", Times, serif;
+}
