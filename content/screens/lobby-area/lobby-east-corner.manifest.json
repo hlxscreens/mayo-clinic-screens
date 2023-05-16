@@ -9,7 +9,7 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1684216299333,
+  "timestamp": 1684218629843,
   "entries": [
     {
       "path": "/content/screens/lobby-area/lobby-east-corner.html",
@@ -38,6 +38,14 @@
     {
       "path": "/media_196995ebe9a21e987ff443af47fd3209fc0663119.jpeg?width=750&format=jpeg&optimize=medium",
       "hash": "196995ebe9a21e987ff443af47fd3209fc0663119"
+    },
+    {
+      "path": "/blocks/carousel/carousel.js",
+      "timestamp": 1683780488000
+    },
+    {
+      "path": "/blocks/carousel/carousel.css",
+      "timestamp": 1683780488000
     },
     {
       "path": "/scripts/delayed.js",
