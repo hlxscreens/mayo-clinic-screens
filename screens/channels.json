@@ -6,13 +6,6 @@
       "externalId": "/content/screens/lobby-area/lobby-east-corner",
       "title": "Lobby Area Near Pantry",
       "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/lobby-east-corner.html"
-    },
-    {
-      "manifestPath": "/content/screens/lobby-area/lobby-east-corner1.manifest.json",
-      "lastModified": "2023-05-16T05:13:53.000Z",
-      "externalId": "/content/screens/lobby-area/lobby-east-corner1",
-      "title": "Lobby Area Near Pantry",
-      "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/lobby-east-corner1.html"
     }
   ],
   "metadata": {
