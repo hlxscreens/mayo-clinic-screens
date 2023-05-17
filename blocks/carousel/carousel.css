@@ -7,7 +7,6 @@ html, body {
     padding: 0;
     margin: auto;
     height: 100%;
-    width: 100%;
     display: grid;
     grid-template-rows: 14% 81% 5%;
     grid-gap: 0;
@@ -37,6 +36,11 @@ html, body {
 #time-header {
     color: dimgrey;
     font-size: 1.75em;
+    font-family: 'Adobe Clean', adobe-clean, Arial, Helvetica, sans-serif;
+}
+#date-header {
+    font-size: 0.9em;
+    font-family: 'Adobe Clean', adobe-clean, Arial, Helvetica, sans-serif;
 }
 .carousel-contain {
     overflow-x: hidden;
@@ -65,13 +69,13 @@ html, body {
 }
 .carousel-text h1 {
     padding-top: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Adobe Clean', adobe-clean, Arial, Helvetica, sans-serif;
 }
 .carousel-text p {
     font-size: large;
     padding: 1% 0 0 0;
-    font-family: "Times New Roman", Times, serif;
-    font-weight: 100;
+    font-family: 'Adobe Clean Light', adobe-clean, "Times New Roman", Times, sans-serif;
+    font-weight: 170;
 }
 .footer-container {
     width: 100%;
@@ -79,5 +83,6 @@ html, body {
     background-color: dimgrey;
     color: white;
     font-size: large;
-    font-family: "Times New Roman", Times, serif;
+    font-weight: 150;
+    font-family: 'Adobe Clean Light', adobe-clean, "Times New Roman", Times, serif;
 }

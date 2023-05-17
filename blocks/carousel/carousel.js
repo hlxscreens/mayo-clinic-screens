@@ -163,12 +163,24 @@ const generateFooter = (contentContainer) => {
   contentContainer.appendChild(footerDiv);
 }
 
+const adjustContentUsingWindowSize = () => {
+  // update container width
+  const width = window.innerWidth;
+  const height = window.innerHeight;
+  const aspectRatio = width / height;
+  const desiredWidth = aspectRatio >= 0.9 ? 33 : 100;
+  const container = document.getElementsByClassName('content-container')[0];
+  container.style.width = `${desiredWidth}%`;
+}
+
 export default function decorate(block) {
   const main = document.getElementsByTagName('main')[0];
   main.style.opacity = 0;
   const contentContainer = document.createElement('div');
   contentContainer.classList.add('content-container');
   main.parentElement.appendChild(contentContainer);
+  adjustContentUsingWindowSize();
+  window.addEventListener('resize', adjustContentUsingWindowSize);
   generateHeader(contentContainer);
   generateCarousel(contentContainer);
   generateFooter(contentContainer);
