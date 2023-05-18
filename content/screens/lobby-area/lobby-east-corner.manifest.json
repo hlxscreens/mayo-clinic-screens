@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1684406449713,
+  "timestamp": 1684407426877,
   "entries": [
     {
       "path": "/content/screens/lobby-area/lobby-east-corner.html",
-      "timestamp": 1684404934000
+      "timestamp": 1684407426492
     },
     {
       "path": "/scripts/lib-franklin.js",
