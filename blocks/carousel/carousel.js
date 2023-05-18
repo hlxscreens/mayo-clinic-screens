@@ -171,6 +171,34 @@ const adjustContentUsingWindowSize = () => {
   const desiredWidth = aspectRatio >= 0.9 ? 33 : 100;
   const container = document.getElementsByClassName('content-container')[0];
   container.style.width = `${desiredWidth}%`;
+  updateFontsWidth();
+}
+
+const updateFontsWidth = () => {
+  const aspectRatio = window.innerWidth / window.innerHeight;
+  if (aspectRatio >= 0.9) {
+    return;
+  }
+  const heightPixelFactor = 0.042;
+  const widthPixelFactor = 0.075;
+  const fontSize = Math.min(widthPixelFactor * window.innerWidth, heightPixelFactor * window.innerHeight);
+  //update header time font size
+  const time = document.getElementById('time-header');
+  const date = document.getElementById('date-header');
+  time.style.fontSize = `${fontSize}px`;
+  date.style.fontSize = `${fontSize/2}px`;
+  //update carousel text font size
+  const headings = document.querySelectorAll('.carousel-text > h1');
+  const paras = document.querySelectorAll('.carousel-text p');
+  Array.from(headings).forEach((heading) => {
+    heading.style.fontSize = `${fontSize}px`;
+  })
+  Array.from(paras).forEach((para) => {
+    para.style.fontSize = `${fontSize/2}px`;
+  })
+  //udpate footer text font size
+  const footer = document.getElementsByClassName('footer-container')[0];
+  footer.style.fontSize = `${fontSize/2}px`;
 }
 
 export default function decorate(block) {
@@ -179,11 +207,11 @@ export default function decorate(block) {
   const contentContainer = document.createElement('div');
   contentContainer.classList.add('content-container');
   main.parentElement.appendChild(contentContainer);
-  adjustContentUsingWindowSize();
-  window.addEventListener('resize', adjustContentUsingWindowSize);
   generateHeader(contentContainer);
   generateCarousel(contentContainer);
   generateFooter(contentContainer);
   main.innerHTML = '';
+  adjustContentUsingWindowSize();
+  window.addEventListener('resize', adjustContentUsingWindowSize);
   executeLogicScript();
 }
