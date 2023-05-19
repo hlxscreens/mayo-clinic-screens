@@ -6,6 +6,9 @@ const executeLogicScript = () => {
   const perView = 1;
   let totalScroll = 0;
   const delay = 5000;
+  if (imageLength <= 1) {
+    return;
+  }
   imageWrapper.style.setProperty('--per-view', perView);
   for(let i = 0; i < perView; i++) {
     imageWrapper.insertAdjacentHTML('beforeend', imageItems[i].outerHTML);
