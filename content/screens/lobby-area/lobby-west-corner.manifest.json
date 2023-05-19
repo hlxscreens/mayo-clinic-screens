@@ -1,0 +1,55 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1684499312011,
+  "entries": [
+    {
+      "path": "/content/screens/lobby-area/lobby-west-corner.html",
+      "timestamp": 1684499310861
+    },
+    {
+      "path": "/scripts/lib-franklin.js",
+      "timestamp": 1683780489000
+    },
+    {
+      "path": "/scripts/scripts.js",
+      "timestamp": 1683780489000
+    },
+    {
+      "path": "/styles/styles.css",
+      "timestamp": 1683780489000
+    },
+    {
+      "path": "/content/screens/lobby-area/media_125d725ded6018026fe3b537d19604978d2783a6c.png?width=750&format=png&optimize=medium",
+      "hash": "125d725ded6018026fe3b537d19604978d2783a6c"
+    },
+    {
+      "path": "/content/screens/lobby-area/media_1500a76ff8be63579ac97a98dd8a161b21c218fb7.png?width=750&format=png&optimize=medium",
+      "hash": "1500a76ff8be63579ac97a98dd8a161b21c218fb7"
+    },
+    {
+      "path": "/content/screens/lobby-area/media_1d552f472d6568be7041e4d13592d0d9a253a467e.png?width=750&format=png&optimize=medium",
+      "hash": "1d552f472d6568be7041e4d13592d0d9a253a467e"
+    },
+    {
+      "path": "/scripts/delayed.js",
+      "timestamp": 1683780489000
+    },
+    {
+      "path": "/blocks/columns/columns.css",
+      "timestamp": 1684211796000
+    },
+    {
+      "path": "/blocks/columns/columns.js",
+      "timestamp": 1684211796000
+    }
+  ]
+}

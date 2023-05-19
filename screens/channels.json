@@ -20,6 +20,27 @@
       "externalId": "/content/screens/lobby-area/lobby-east-corner",
       "title": "Lobby Area Near Pantry",
       "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/lobby-east-corner.html"
+    },
+    {
+      "manifestPath": "/content/screens/lobby-area/lobby-west-corner.manifest.json",
+      "lastModified": "2023-05-19T12:28:30.861Z",
+      "hierarchy": [
+        {
+          "title": "content",
+          "path": "/content"
+        },
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "lobby-area",
+          "path": "/content/screens/lobby-area"
+        }
+      ],
+      "externalId": "/content/screens/lobby-area/lobby-west-corner",
+      "title": "Lobby Area Near Lift",
+      "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/lobby-west-corner.html"
     }
   ],
   "metadata": {
