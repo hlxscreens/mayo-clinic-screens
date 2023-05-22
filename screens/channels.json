@@ -23,7 +23,7 @@
     },
     {
       "manifestPath": "/content/screens/lobby-area/lobby-west-corner.manifest.json",
-      "lastModified": "2023-05-19T12:28:37.000Z",
+      "lastModified": "2023-05-19T12:47:42.000Z",
       "hierarchy": [
         {
           "title": "content",
@@ -41,6 +41,27 @@
       "externalId": "/content/screens/lobby-area/lobby-west-corner",
       "title": "Lobby Area Near Lift",
       "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/lobby-west-corner.html"
+    },
+    {
+      "manifestPath": "/content/screens/lobby-area/hallway.manifest.json",
+      "lastModified": "2023-05-22T12:11:04.827Z",
+      "hierarchy": [
+        {
+          "title": "content",
+          "path": "/content"
+        },
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "lobby-area",
+          "path": "/content/screens/lobby-area"
+        }
+      ],
+      "externalId": "/content/screens/lobby-area/hallway",
+      "title": "Hallway welcome",
+      "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/hallway.html"
     }
   ],
   "metadata": {
