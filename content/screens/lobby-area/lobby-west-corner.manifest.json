@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1684872481927,
+  "timestamp": 1684872768422,
   "entries": [
     {
       "path": "/content/screens/lobby-area/lobby-west-corner.html",
-      "timestamp": 1684872481426
+      "timestamp": 1684872768321
     },
     {
       "path": "/scripts/lib-franklin.js",
@@ -38,10 +38,6 @@
     {
       "path": "/content/screens/lobby-area/media_1d552f472d6568be7041e4d13592d0d9a253a467e.png?width=750&format=png&optimize=medium",
       "hash": "1d552f472d6568be7041e4d13592d0d9a253a467e"
-    },
-    {
-      "path": "/content/screens/lobby-area/media_14d0e81ccb6845856e43d987c0f1db7081a241f39.png?width=750&format=png&optimize=medium",
-      "hash": "14d0e81ccb6845856e43d987c0f1db7081a241f39"
     },
     {
       "path": "/blocks/carousel/carousel.js",
