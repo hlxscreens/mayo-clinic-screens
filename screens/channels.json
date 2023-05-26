@@ -5,6 +5,10 @@
       "lastModified": "2023-05-19T12:47:42.000Z",
       "hierarchy": [
         {
+          "title": "content",
+          "path": "/content"
+        },
+        {
           "title": "screens",
           "path": "/content/screens"
         },
@@ -15,13 +19,16 @@
       ],
       "externalId": "/content/screens/lobby-area/lobby-east-corner",
       "title": "Lobby Area Near Pantry",
-      "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/lobby-east-corner.html",
-      "editUrl": "https://adobe.sharepoint.com/:w:/r/sites/HelixScreensProjects/Shared%20Documents/mayo-clinic/content/screens/lobby-area/lobby-east-corner.docx?d=wf3bd83f2b64a42f9b33f4582639d97e1&csf=1&web=1&e=fD6LEN"
+      "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/lobby-east-corner.html"
     },
     {
       "manifestPath": "/content/screens/lobby-area/lobby-west-corner.manifest.json",
       "lastModified": "2023-05-23T20:59:22.000Z",
       "hierarchy": [
+        {
+          "title": "content",
+          "path": "/content"
+        },
         {
           "title": "screens",
           "path": "/content/screens"
@@ -40,6 +47,10 @@
       "lastModified": "2023-05-26T10:33:05.000Z",
       "hierarchy": [
         {
+          "title": "content",
+          "path": "/content"
+        },
+        {
           "title": "screens",
           "path": "/content/screens"
         },
@@ -50,13 +61,16 @@
       ],
       "externalId": "/content/screens/lobby-area/hallway",
       "title": "Hallway welcome",
-      "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/hallway.html",
-      "editUrl": "https://adobe.sharepoint.com/:w:/r/sites/HelixScreensProjects/Shared%20Documents/mayo-clinic/content/screens/lobby-area/Hallway.docx?d=wef43e0feb1cd4cc2a183b9d7e5ceef08&csf=1&web=1&e=BgJlAb"
+      "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/hallway.html"
     },
     {
       "manifestPath": "/content/screens/lobby-area/lobby-area-near-lift.manifest.json",
       "lastModified": "2023-05-26T10:33:05.000Z",
       "hierarchy": [
+        {
+          "title": "content",
+          "path": "/content"
+        },
         {
           "title": "screens",
           "path": "/content/screens"
