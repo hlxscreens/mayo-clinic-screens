@@ -5,10 +5,6 @@
       "lastModified": "2023-05-19T12:47:42.000Z",
       "hierarchy": [
         {
-          "title": "content",
-          "path": "/content"
-        },
-        {
           "title": "screens",
           "path": "/content/screens"
         },
@@ -25,10 +21,6 @@
       "manifestPath": "/content/screens/lobby-area/lobby-west-corner.manifest.json",
       "lastModified": "2023-05-23T20:59:22.000Z",
       "hierarchy": [
-        {
-          "title": "content",
-          "path": "/content"
-        },
         {
           "title": "screens",
           "path": "/content/screens"
@@ -47,10 +39,6 @@
       "lastModified": "2023-05-26T10:33:05.000Z",
       "hierarchy": [
         {
-          "title": "content",
-          "path": "/content"
-        },
-        {
           "title": "screens",
           "path": "/content/screens"
         },
@@ -61,16 +49,13 @@
       ],
       "externalId": "/content/screens/lobby-area/hallway",
       "title": "Hallway welcome",
-      "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/hallway.html"
+      "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/hallway.html",
+      "editUrl": "https://adobe.sharepoint.com//r/sites/HelixScreensProjects/_layouts/15/Doc.aspx?sourcedoc=%7BEF43E0FE-B1CD-4CC2-A183-B9D7E5CEEF08%7D&file=Hallway.docx&action=default&mobileredirect=true"
     },
     {
       "manifestPath": "/content/screens/lobby-area/lobby-area-near-lift.manifest.json",
       "lastModified": "2023-05-26T10:33:05.000Z",
       "hierarchy": [
-        {
-          "title": "content",
-          "path": "/content"
-        },
         {
           "title": "screens",
           "path": "/content/screens"
