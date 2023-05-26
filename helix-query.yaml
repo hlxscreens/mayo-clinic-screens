@@ -22,6 +22,8 @@ indices:
           parseTimestamp(headers['last-modified'], 'ddd, DD MMM YYYY hh:mm:ss GMT')
       manifestPath:
         select: head > meta[name="manifestpath"]
+        value:  |
+          attribute(el, 'content')
       editUrl:
         select: head > meta[name="editurl"]
         value:  |
