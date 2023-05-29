@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/lobby-area/lobby-east-corner.manifest.json",
-      "lastModified": "2023-05-19T12:47:42.000Z",
+      "lastModified": "2023-05-23T16:33:00.000Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -19,7 +19,7 @@
     },
     {
       "manifestPath": "/content/screens/lobby-area/lobby-west-corner.manifest.json",
-      "lastModified": "2023-05-23T20:59:22.000Z",
+      "lastModified": "2023-05-29T07:00:39.197Z",
       "hierarchy": [
         {
           "title": "screens",
