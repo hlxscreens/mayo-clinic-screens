@@ -68,6 +68,23 @@
       "externalId": "/content/screens/lobby-area/lobby-area-near-lift",
       "title": "Lobby Area Near Lift",
       "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/lobby-area-near-lift.html"
+    },
+    {
+      "manifestPath": "/content/screens/lobby-area/lobby-east-corner2.manifest.json",
+      "lastModified": "2024-01-29T10:49:44.761Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "lobby-area",
+          "path": "/content/screens/lobby-area"
+        }
+      ],
+      "externalId": "/content/screens/lobby-area/lobby-east-corner2",
+      "title": "Lobby Area Near Watercooler",
+      "liveUrl": "https://main--mayo-clinic-screens--hlxscreens.hlx.live/content/screens/lobby-area/lobby-east-corner2.html"
     }
   ],
   "metadata": {
