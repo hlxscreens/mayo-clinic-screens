@@ -2,7 +2,7 @@
   "channels": [
     {
       "manifestPath": "/content/screens/lobby-area/lobby-east-corner.manifest.json",
-      "lastModified": "2023-05-23T16:33:00.000Z",
+      "lastModified": "2024-01-29T10:27:24.724Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -19,7 +19,7 @@
     },
     {
       "manifestPath": "/content/screens/lobby-area/lobby-west-corner.manifest.json",
-      "lastModified": "2023-05-29T07:00:39.197Z",
+      "lastModified": "2024-01-29T10:27:25.928Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -36,7 +36,7 @@
     },
     {
       "manifestPath": "/content/screens/lobby-area/hallway.manifest.json",
-      "lastModified": "2023-05-26T10:33:05.000Z",
+      "lastModified": "2024-01-29T10:27:27.623Z",
       "hierarchy": [
         {
           "title": "screens",
@@ -54,7 +54,7 @@
     },
     {
       "manifestPath": "/content/screens/lobby-area/lobby-area-near-lift.manifest.json",
-      "lastModified": "2023-05-26T10:33:05.000Z",
+      "lastModified": "2024-01-29T10:27:28.250Z",
       "hierarchy": [
         {
           "title": "screens",
