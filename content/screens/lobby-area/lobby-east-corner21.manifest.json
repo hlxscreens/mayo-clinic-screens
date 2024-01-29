@@ -9,11 +9,11 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1706528577249,
+  "timestamp": 1706528578021,
   "entries": [
     {
-      "path": "/content/screens/lobby-area/hallway.html",
-      "timestamp": 1706524048000
+      "path": "/content/screens/lobby-area/lobby-east-corner21.html",
+      "timestamp": 1706528577909
     },
     {
       "path": "/scripts/lib-franklin.js",
@@ -28,8 +28,16 @@
       "timestamp": 1683780489000
     },
     {
-      "path": "/content/screens/lobby-area/media_120c554d39ba1641185f43f929dbcc6c1ba8f82fb.png?width=750&format=png&optimize=medium",
-      "hash": "120c554d39ba1641185f43f929dbcc6c1ba8f82fb"
+      "path": "/content/screens/lobby-area/media_1d9b93f91ca3c88465f39b33e92c4eaa38314e2a7.jpeg?width=750&format=jpeg&optimize=medium",
+      "hash": "1d9b93f91ca3c88465f39b33e92c4eaa38314e2a7"
+    },
+    {
+      "path": "/content/screens/lobby-area/media_124a20a5ad48b8cbda4f3d6f2c6889d91d5b98bdc.jpeg?width=750&format=jpeg&optimize=medium",
+      "hash": "124a20a5ad48b8cbda4f3d6f2c6889d91d5b98bdc"
+    },
+    {
+      "path": "/content/screens/lobby-area/media_196995ebe9a21e987ff443af47fd3209fc0663119.jpeg?width=750&format=jpeg&optimize=medium",
+      "hash": "196995ebe9a21e987ff443af47fd3209fc0663119"
     },
     {
       "path": "/blocks/carousel/carousel.js",
