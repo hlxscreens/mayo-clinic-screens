@@ -1,0 +1,21 @@
+{
+"server": "http://localhost:4502",
+"registrationKey": "",
+"device": "",
+"user": "",
+"password": "",
+"resolution": "auto",
+"rebootSchedule": "at 4:00 am",
+"maxNumberOfLogFilesToKeep": 10,
+"logLevel": 3,
+"enableAdminUI": true,
+"enableOSD": true,
+"enableActivityUI": false,
+"enableNativeVideo": false,
+"enableAutoScreenshot": false,
+"enableAdvancedPlaybackMonitoring": false,
+"cloudMode": true,
+"cloudUrl": "https://screens-dev.adobeioruntime.net",
+"cloudToken": "roe4-qawt-1l3r",
+"enableDeveloperMode": true
+}
