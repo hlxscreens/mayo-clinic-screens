@@ -15,7 +15,7 @@
 "enableAutoScreenshot": false,
 "enableAdvancedPlaybackMonitoring": false,
 "cloudMode": true,
-"cloudUrl": "https://screens-dev.adobeioruntime.net",
-"cloudToken": "kodl-ojq5-ay6x",
+"cloudUrl": "https://screens.adobeioruntime.net",
+"cloudToken": "3wht-hi58-fgku",
 "enableDeveloperMode": true
 }
